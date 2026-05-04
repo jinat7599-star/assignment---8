@@ -8,7 +8,7 @@
     "start": "next start",
     "lint": "next lint"
   },
-  
+
   "dependencies": {
     "@clerk/nextjs": "^6.5.0",
     "@radix-ui/react-avatar": "^1.1.4",
@@ -29,6 +29,7 @@
     "tailwind-merge": "^2.5.5",
     "tailwindcss-animate": "^1.0.7"
   },
+  
   "devDependencies": {
     "@types/node": "^20",
     "@types/react": "^19",
